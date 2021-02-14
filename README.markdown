@@ -1,6 +1,6 @@
 # Some Benchmarks Jaro-Winkler in plain Ruby vs Rust
 
-I played around with rust integration and found a project called [str_metrics](https://github.com/anirbanmu/str_metrics] 
+I played around with rust integration and found a project called [str_metrics](https://github.com/anirbanmu/str_metrics) 
 -- see [reddit](https://www.reddit.com/r/ruby/comments/fhu07l/released_a_string_metricsdistance_gem_written_in/) and 
 wanted to see how fast a native Rust implementation for [Jaro-Winkler distance](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance) 
 is vs the one shipped in Ruby (used for "did-you-mean" suggestion for typos in methods). 
