@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark (0.1.1)
+    dotenv (2.7.6)
+    ffi (1.14.2)
+    str_metrics (0.1.1)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark
+  dotenv
+  str_metrics
+
+RUBY VERSION
+   ruby 2.7.2p137
+
+BUNDLED WITH
+   2.1.4
